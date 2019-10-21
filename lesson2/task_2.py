@@ -25,3 +25,4 @@ print(f'четных = {chet}, нечетных = {nechet}')
 #     return chet(n//10)
 #
 # print(chet(252))
+#
