@@ -1,5 +1,6 @@
 import random
-m = random.randint(0,10)
+
+m = random.randint(0, 10)
 print(m)
 SIZE = 2 * m + 1
 MIN_ITEM = 0
@@ -23,3 +24,4 @@ def mediana_search(array):
 
 
 print(mediana_search(array))
+
